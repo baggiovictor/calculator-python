@@ -1,3 +1,3 @@
-# Python calculator
+# Python Calculator
 
 Calculator developed with Python and tklist
