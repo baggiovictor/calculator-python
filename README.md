@@ -1,3 +1,3 @@
-# calculator-python
+# Python calculator
 
-Calculadora desenvolvida com Python e tklist
+Calculator developed with Python and tklist
